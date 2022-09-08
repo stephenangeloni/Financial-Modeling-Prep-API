@@ -8,6 +8,7 @@
 <h3>Free <a href="https://financialmodelingprep.com/developer/docs">Financial Statement API</a>. <br> Real-time and historical data of stock prices.</h3>
 
 https://www.freecodecamp.org/news/how-to-transform-json-to-csv-using-jq-in-the-command-line-4fa7939558bf/
+https://fmpcloud.io/documentation#dailyIndicators
 
 Supports over **25000 stocks** across multiple exchanges. <br />
 <br />
